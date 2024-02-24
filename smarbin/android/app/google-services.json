@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509825197285",
+    "project_id": "smarbin-7443d",
+    "storage_bucket": "smarbin-7443d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509825197285:android:43df4f1732cb70c425a00c",
+        "android_client_info": {
+          "package_name": "com.example.smarbin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuCphfP-O8u2kzGnPLDA02ZKlU4kzI2j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
